@@ -48,7 +48,7 @@ const btn = document.getElementById('btn');
             'bo dzięki temu mogą kraść',
             'bo dostają za to pieniądze',
             'bo tak się uczy w państwowej szkole',
-            'bo bez ego (tfu!) demokracja nie może istnieć',
+            'bo bez tego (tfu!) demokracja nie może istnieć',
             'bo głupich jest więcej niż mądrych',
             'bo chcą tworzyć raj na ziemi',
             'bo chcę niszczyć cywilizację białego człowieka'
